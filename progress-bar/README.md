@@ -1,3 +1,6 @@
+### Suhyunified Code
+[JSFiddle](https://github.com/devkodeio/the-dom-challenge/blob/main/progress-bar/README.md#instructions)
+
 ### Challenge 5: Progress Bar
 
 Create a progress bar using HTML, CSS and Vanilla Javascript.
