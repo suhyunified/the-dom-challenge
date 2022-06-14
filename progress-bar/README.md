@@ -1,5 +1,5 @@
 ### Suhyunified Code
-[JSFiddle](https://github.com/devkodeio/the-dom-challenge/blob/main/progress-bar/README.md#instructions)
+[JSFiddle](https://jsfiddle.net/suhyunified/0fn95276/)
 
 ### Challenge 5: Progress Bar
 
