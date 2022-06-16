@@ -24,6 +24,8 @@ Implement Pixel Art grid using HTML, CSS and JavaScript [View](./pixel-art/READM
 
 **Duration:** 60 Minutes <br/>
 
+**Suhyun Solution: ** https://jsfiddle.net/suhyunified/0fn95276/
+
 ---
 
 ### Challenge 3:
