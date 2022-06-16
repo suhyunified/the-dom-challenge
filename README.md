@@ -12,9 +12,7 @@ Implement Star Rating Widget using HTML, CSS and JavaScript [View](./star-rating
 
 **Duration:** 60 Minutes <br/>
 
-**Solution 1:** https://jsfiddle.net/devkodeio/2ovtnj8f/
-
-**Solution 2:** https://jsfiddle.net/devkodeio/dry8mczx/
+* **Suhyun Solution:** https://jsfiddle.net/suhyunified/3tvgdp7k/1/
 
 ---
 
